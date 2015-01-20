@@ -10,6 +10,6 @@ A simple command-line tool for OS X to convert ID3 tag encodings
 	    -d:  Destination folder, default is SRC_FOLDER/id3c
 	    -o:  Overwrite original file, default is no
 
-***Dependencies
+Dependencies:
 
 Taglib https://taglib.github.io
